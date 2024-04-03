@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ProjetPfa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3386126-08CB-42DF-AC6A-68AA81DD440D}|ProjetPfa\\ProjetPfa.csproj|c:\\users\\user\\source\\repos\\projetpfa\\projetpfa\\views\\categories\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3386126-08CB-42DF-AC6A-68AA81DD440D}|ProjetPfa\\ProjetPfa.csproj|solutionrelative:projetpfa\\views\\categories\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ProjetPfa\\ProjetPfa\\Views\\Categories\\Show.cshtml",
+              "RelativeDocumentMoniker": "ProjetPfa\\Views\\Categories\\Show.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ProjetPfa\\ProjetPfa\\Views\\Categories\\Show.cshtml",
+              "RelativeToolTip": "ProjetPfa\\Views\\Categories\\Show.cshtml",
+              "ViewState": "AQIAAEwBAAAAAAAAAAAewGgBAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T20:17:53.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

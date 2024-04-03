@@ -1,0 +1,35 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between; /* Les boîtes seront séparées horizontalement */
+    max-width: 800px; /* Ajustez la largeur maximale selon vos préférences */
+}
+
+.grid-block {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: calc(50% - 10px); /* Calcul de la largeur pour que les boîtes soient de taille égale avec un espace entre elles */
+}
+
+    .grid-block:hover {
+        background-color: #fd7e14;
+    }
+
+    .grid-block a {
+        text-decoration: none;
+        color: black;
+    }

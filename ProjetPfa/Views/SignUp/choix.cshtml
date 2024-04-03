@@ -1,0 +1,47 @@
+﻿ 
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!--/fonts-->
+    <link href="//fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap"
+          rel="stylesheet">
+    <!-- Template CSS -->
+    <link rel="stylesheet" href="~/css/Choix.css">
+</head>
+
+<body>
+
+<div class="container py-md-5 py-3">
+    <div class="grid-block" onclick="redirigerVersPage1()">
+        <span class="fas fa-truck" aria-hidden="true"></span>
+        <h4 class="my-3">Prestataire ...</h4>
+        <p class="">Vous êtes un professionnel souhaitant offrir vos services et compétences à ceux qui en ont besoin. </p>
+    </div>
+    <div class="grid-block" onclick="redirigerVersPage2()">
+        <span class="fas fa-american-sign-language-interpreting" aria-hidden="true"></span>
+        <h4 class="my-3">Chercheur ...</h4>
+        <p class="">Vous recherchez des experts qualifiés pour répondre à vos besoins et résoudre vos problèmes.</p>
+    </div>
+</div>
+
+<script>
+        function redirigerVersPage1() {
+            window.location.href = "/SignUp_Prestataire/SignUp_Prestataire";
+        }
+
+        function redirigerVersPage2() {
+            // Si vous avez une autre vue dans signup, spécifiez le chemin ici.
+            window.location.href = "/SignUp_Client/SignUp_Client";
+        }
+
+</script>
+
+</body>
+</html>

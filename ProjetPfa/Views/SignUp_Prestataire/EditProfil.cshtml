@@ -1,0 +1,119 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<meta charset="utf-8">
+
+
+<title>creer un service</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="~/css/Profil.css">
+
+
+<body>
+    <div class="container-xl px-4 mt-4">
+
+        <nav class="nav nav-borders">
+            <a class="nav-link active ms-0" target="__blank">Profile</a>
+
+        </nav>
+        <hr class="mt-0 mb-4">
+        <div class="row">
+            <div class="col-xl-4">
+
+                <div class="card mb-4 mb-xl-0">
+                    <div class="card-header">Photo de profil</div>
+                    <div class="card-body text-center">
+
+                        <img class="img-account-profile rounded-circle mb-2" src="http://bootdey.com/img/Content/avatar/avatar1.png" alt>
+
+                        <div class="small font-italic text-muted mb-4">JPG ou PNG d'une taille maximale de 5 Mo</div>
+
+                        <button class="btn btn-save-changes" type="button">Télécharger une nouvelle image</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-8">
+
+                <div class="card mb-4">
+                    <div class="card-header">Détails du compte</div>
+                    <div class="card-body">
+                        <form>
+
+                            <div class="mb-3">
+                                <label class="small mb-1" for="inputUsername">Nom d'utilisateur (comment votre nom apparaîtra aux autres utilisateurs sur le site)</label>
+                                <input class="form-control" id="inputUsername" type="text" placeholder="Veuillez-entrer votre nom d'utilisateur" value="Nom d'utilisateur">
+                            </div>
+
+                            <div class="row gx-3 mb-3">
+
+                                <div class="col-md-6">
+                                    <label class="small mb-1" for="inputFirstName">Nom</label>
+                                    <input class="form-control" id="inputFirstName" type="text" placeholder="Veuillez-entrer votre nom" value="Nom">
+                                </div>
+
+                                <div class="col-md-6">
+                                    <label class="small mb-1" for="inputLastName">Prénom</label>
+                                    <input class="form-control" id="inputLastName" type="text" placeholder="Veuillez-entrer votre prénom" value="Prenom">
+                                </div>
+                            </div>
+
+                            <div class="row gx-3 mb-3">
+
+                                <div class="col-md-6">
+                                    <label class="small mb-1" for="inputOrgName">Nom de l'organisation</label>
+                                    <input class="form-control" id="inputOrgName" type="text" placeholder="Veuillez-entrer votre nom de l'organisation" value="ABCD">
+                                </div>
+
+                                <div class="col-md-6">
+                                    <label class="small mb-1" for="inputLocation">Localisation</label>
+                                    <input class="form-control" id="inputLocation" type="text" placeholder="Veuillez-entrer votre Localisation" value="exp : Bd Mohammed V, Oujda ">
+                                </div>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="small mb-1" for="inputEmailAddress">Adresse E-mail </label>
+                                <input class="form-control" id="inputEmailAddress" type="email" placeholder="Veuillez-entrer votre adresse E-mail" value="ABCD@example.com">
+                            </div>
+
+                            <div class="row gx-3 mb-3">
+
+                                <div class="col-md-6">
+                                    <label class="small mb-1" for="inputPhone">Numéro de téléphone de l organisation</label>
+                                    <input class="form-control" id="inputPhone" type="tel" placeholder="Veuillez-entrer votre numéro de téléphone " value="**********">
+                                </div>
+                            </div>
+                           
+                            <div class="mb-3">
+                                <label for="fileUploadLogo" class="form-label">Ajouter votre Logo :</label>
+                                <input class="form-control" type="file" id="fileUploadLogo">
+                            </div>
+                            <div class="mb-3">
+                                <label for="fileUploadCertificat" class="form-label">Ajouter votre image du certificat :</label>
+                                <input class="form-control" type="file" id="fileUploadCertificat">
+                            </div>
+
+                            <div class="card-footer d-flex justify-content-between">
+                                <button class="btn btn-save-changes" type="button">Enregistrer les modifications</button>
+                                <a href="@Url.Action("Show", "Acceuil")" class="btn btn-link">Revenir plus tard</a>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript">
+
+    </script>
+</body>
+</html>
