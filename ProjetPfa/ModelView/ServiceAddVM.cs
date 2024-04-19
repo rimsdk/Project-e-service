@@ -17,7 +17,7 @@ namespace ProjetPfa.ModelView
         [Required(ErrorMessage = "La catégorie du service est requise")]
         public int CategorieId { get; set; }
 
-        public List<SelectListItem> Categories { get; set; }
+        public List<SelectListItem>? Categories { get; set; }
 
         [Display(Name = "Image")]
         public IFormFile ImageFile { get; set; }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DaoFGrGp7EgeEnx7klgmVN/Oqv9DTSOBshaJWZ/8qdc=",
+  "Hash": "odMC0+IrP0XYs4lL26eZ7B+xP49EMGjVbGgv8lu2PoI=",
   "Source": "ProjetPfa",
   "BasePath": "_content/ProjetPfa",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ProjetPfa\\wwwroot",
       "Source": "ProjetPfa",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ProjetPfa.styles.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ProjetPfa.styles.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "ProjetPfa.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ProjetPfa.styles.css"
+      "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ProjetPfa.styles.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProjetPfa.bundle.scp.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProjetPfa.bundle.scp.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "ProjetPfa.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProjetPfa.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProjetPfa.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\css\\main.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\css\\main.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/css/main.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\css\\style-starter.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\css\\style-starter.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/css/style-starter.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style-starter.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\1.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\1.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/1.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\3.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\3.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/3.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\4.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\4.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/4.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\5.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\5.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/5.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\6.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\6.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/6.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\A.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\A.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/A.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\A.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\AA.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\AA.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/AA.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\AA.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\AAA.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\AAA.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/AAA.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\AAA.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\ab1.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\ab1.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/ab1.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\ab1.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\ab2.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\ab2.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/ab2.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\ab2.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\B.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\B.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/B.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\B.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner1.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner1.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/banner1.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner1.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner2.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner2.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/banner2.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner2.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner3.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner3.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/banner3.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner3.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner4.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner4.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/banner4.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner4.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner5.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner5.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/banner5.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner5.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\BB.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\BB.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/BB.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\BB.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\BBB.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\BBB.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/BBB.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\BBB.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\BBBB.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\BBBB.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/BBBB.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\BBBB.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\C.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\C.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/C.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\C.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\CC.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\CC.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/CC.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\CC.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\dalaa.jpeg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\dalaa.jpeg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/dalaa.jpeg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\dalaa.jpeg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\electricien1.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\electricien1.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/electricien1.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\electricien1.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\electricien11.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\electricien11.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/electricien11.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\electricien11.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\facebook.png",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\facebook.png",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/facebook.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\facebook.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\instagram.png",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\instagram.png",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/instagram.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\instagram.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\linkedin.png",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\linkedin.png",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/linkedin.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\linkedin.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\logo-icon.png",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\logo-icon.png",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/logo-icon.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo-icon.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\Long1.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\Long1.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/Long1.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\Long1.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\M2.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\M2.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/M2.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\M2.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\media-img.png",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\media-img.png",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/media-img.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\media-img.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\menuiserie1.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\menuiserie1.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/menuiserie1.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\menuiserie1.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\menuisier2.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\menuisier2.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/menuisier2.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\menuisier2.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\nvl.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\nvl.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/nvl.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\nvl.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\nvl2.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\nvl2.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/nvl2.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\nvl2.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\nvl3.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\nvl3.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/nvl3.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\nvl3.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\plombier1.jpeg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\plombier1.jpeg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/plombier1.jpeg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\plombier1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\plombier2.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\plombier2.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/plombier2.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\plombier2.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\search.png",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\search.png",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/search.png",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\search.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\search-solid.svg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\search-solid.svg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/search-solid.svg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\search-solid.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team2.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team2.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/team2.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\team2.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team3.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team3.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/team3.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\team3.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team4.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team4.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/team4.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\team4.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team5.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team5.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/team5.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\team5.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team6.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team6.jpg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/team6.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\team6.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\twitter.png",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\twitter.png",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/images/twitter.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\twitter.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\bootstrap.min.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\jquery-1.9.1.min.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\jquery-1.9.1.min.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/js/jquery-1.9.1.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-1.9.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\theme-change.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\theme-change.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/js/theme-change.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\theme-change.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "assets/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Admincss.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Admincss.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "css/Admincss.css",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Admincss.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Choix.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Choix.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "css/Choix.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Choix.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Css_Liste.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Css_Liste.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "css/Css_Liste.css",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Css_Liste.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Form.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Form.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "css/Form.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Form.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Profil.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Profil.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "css/Profil.css",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Profil.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\css\\site.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\favicon.ico",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\js\\Choix.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\js\\Choix.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "js/Choix.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Choix.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\js\\site.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ProjetPfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Ibtihal\\Project-e-service\\ProjetPfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\",
       "BasePath": "_content/ProjetPfa",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

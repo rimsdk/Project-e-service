@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using ProjetPfa.Models;
 using ProjetPfa.ModelView;
 
@@ -28,8 +29,11 @@ namespace ProjetPfa.Controllers
                 // Vérifier si l'utilisateur existe
                 if (user != null)
                 {
+                    int userId = user.Id; // Suppose que user.Id est déjà un int
+                    HttpContext.Session.SetInt32("PrestataireId", userId);
+
                     // Rediriger vers la page d'accueil par exemple
-                    return RedirectToAction("Show", "Liste");
+                    return RedirectToAction("Add", "Service");
                 }
                 else
                 {

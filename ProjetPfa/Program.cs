@@ -9,7 +9,10 @@ builder.Services.AddDbContext<MyContext>(options =>
 {
     options.UseSqlServer("Data source=.\\SQLEXPRESS;Initial catalog=ProjetPfa;Integrated security=true;Encrypt=false;");
 });
-
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromDays(1);
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -19,7 +22,7 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
-
+app.UseSession();
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
