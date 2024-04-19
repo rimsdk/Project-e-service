@@ -14,9 +14,9 @@
         public string Telephone { get; set; }
         public string Adresse { get; set;}
 
-        IList <FeedBack> FeedBacks { get; set; }
-        IList<Admin> admins { get; set; }
-        IList <Reservation> reservations { get; set; }
+        IList <FeedBack>? FeedBacks { get; set; }
+        IList<Admin>? admins { get; set; }
+        IList <Reservation>? reservations { get; set; }
 
 
     }
