@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjetPfa
+build_property.RootNamespace = ProjetPfa
+build_property.ProjectDir = C:\Users\HP\source\repos\ProjetPfa\ProjetPfa\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HP\source\repos\ProjetPfa\ProjetPfa
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/About/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcU2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/Acceuil/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXVpbFxTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/Categories/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/Contact/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/Service/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/Shared/_NavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/SignIn/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnbkluXFNob3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/SignUp/choix.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwXGNob2l4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/SignUp_Chercheur/SignUp_Chercheur.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwX0NoZXJjaGV1clxTaWduVXBfQ2hlcmNoZXVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/SignUp_Client/SignUp_Client.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwX0NsaWVudFxTaWduVXBfQ2xpZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/SignUp_Prestataire/EditProfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwX1ByZXN0YXRhaXJlXEVkaXRQcm9maWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/SignUp_Prestataire/SignUp_Prestataire.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwX1ByZXN0YXRhaXJlXFNpZ25VcF9QcmVzdGF0YWlyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/ProjetPfa/ProjetPfa/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-enq702o5kv
