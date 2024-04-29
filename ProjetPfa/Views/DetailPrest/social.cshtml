@@ -1,0 +1,142 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>compte associé</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="~/css/Profil.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4 text-center">Compte associé</h1>
+        <h2 class="mb-4">Présence sur les réseaux sociaux</h2>
+        <div class="form-group">
+            <div class="row align-items-center">
+                <div class="col">
+                    <div class="row">
+                        <div class="col-auto mr-3">
+                            <i class="fab fa-google text-danger"></i> Google
+                        </div>
+                        <div class="col text-right">
+                            <button type="button" class="btn btn-primary btn-sm" id="connectGoogle">Connecter</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="row align-items-center">
+                <div class="col">
+                    <div class="row">
+                        <div class="col-auto mr-3">
+                            <i class="fab fa-twitter text-info"></i> Twitter
+                        </div>
+                        <div class="col text-right">
+                            <button type="button" class="btn btn-primary btn-sm" id="connectTwitter">Connecter</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="row align-items-center">
+                <div class="col">
+                    <div class="row">
+                        <div class="col-auto mr-3">
+                            <i class="fab fa-facebook text-primary"></i> Facebook
+                        </div>
+                        <div class="col text-right">
+                            <button type="button" class="btn btn-primary btn-sm" id="connectFacebook">Connecter</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h2 class="mb-4">Présence professionnelle</h2>
+        <div class="form-group">
+            <div class="row align-items-center">
+                <div class="col">
+                    <div class="row">
+                        <div class="col-auto mr-3">
+                            <i class="fab fa-github text-dark"></i> GitHub
+                        </div>
+                        <div class="col text-right">
+                            <button type="button" class="btn btn-primary btn-sm" id="connectGitHub">Connecter</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="row align-items-center">
+                <div class="col">
+                    <div class="row">
+                        <div class="col-auto mr-3">
+                            <i class="fab fa-stack-overflow text-orange"></i> Stack Overflow
+                        </div>
+                        <div class="col text-right">
+                            <button type="button" class="btn btn-primary btn-sm" id="connectStackOverflow">Connecter</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group text-right">
+            <button type="button" class="btn btn-success" id="continueButton">Continuer</button>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- Font Awesome -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
+    <!-- Script for connecting to social accounts -->
+    <script>
+        $(document).ready(function () {
+            $('#connectGoogle').click(function () {
+                // Code pour se connecter à Google
+                alert('Connexion à Google...');
+            });
+
+            $('#connectTwitter').click(function () {
+                // Code pour se connecter à Twitter
+                alert('Connexion à Twitter...');
+            });
+
+            $('#connectFacebook').click(function () {
+                // Code pour se connecter à Facebook
+                alert('Connexion à Facebook...');
+            });
+
+            $('#connectGitHub').click(function () {
+                // Code pour se connecter à GitHub
+                alert('Connexion à GitHub...');
+            });
+
+            $('#connectStackOverflow').click(function () {
+                // Code pour se connecter à Stack Overflow
+                alert('Connexion à Stack Overflow...');
+            });
+
+            $('#continueButton').click(function () {
+                // Rediriger vers une autre page
+                window.location.href = '/DetailPrest/verify';
+            });
+        });
+    </script>
+</body>
+</html>
+

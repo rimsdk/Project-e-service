@@ -1,0 +1,100 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Enregistrement du Prestataire</title>
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/Profil.css">
+    </head>
+    <body>
+        <div class="container mt-5 text-center">
+            <h2 class="mb-4">Enregistrement du Prestataire</h2>
+        <form action="/DetailPrest/social" method="POST">
+
+                <!-- Informations professionnelles -->
+                <h4>Informations professionnelles</h4>
+                <div class="form-group">
+                    <label for="occupation" data-toggle="tooltip" data-placement="right" title="Sélectionnez votre occupation">Votre Occupation</label>
+                    <select class="form-control" id="occupation" name="Occupation" required>
+                        <option value="Écriture et Traduction">Écriture et Traduction</option>
+                        <option value="Programmation">Programmation</option>
+                        <option value="Données">Données</option>
+                        <option value="Autres">Autres</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="skills" data-toggle="tooltip" data-placement="right" title="Ajoutez vos compétences liées au service que vous offrez">Compétences</label>
+                    <div class="competence-wrapper">
+                        <div class="form-row mb-2">
+                            <div class="col">
+                                <input type="text" class="form-control" placeholder="Compétence" name="CompetenceName[]">
+                            </div>
+                            <div class="col">
+                                <select class="form-control" name="CompetenceLevel[]">
+                                    <option value="Débutant">Débutant</option>
+                                    <option value="Courant">Courant</option>
+                                    <option value="Avancé">Avancé</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-secondary btn-sm" id="addCompetence">Ajouter</button>
+                </div>
+                <div class="form-group">
+                    <label for="certifications" data-toggle="tooltip" data-placement="right" title="Ajoutez vos certifications pertinentes pour le service que vous offrez">Certifications</label>
+                    <div class="certification-wrapper">
+                        <div class="form-row mb-2">
+                            <div class="col">
+                                <input type="text" class="form-control" placeholder="Nom du certificat" name="CertificationName">
+                            </div>
+                            <div class="col">
+                                <input type="text" class="form-control" placeholder="Certifié par" name="CertifiedFrom">
+                            </div>
+                            <div class="col">
+                                <input type="date" class="form-control" placeholder="Année" name="CertificationYear">
+                            </div>
+                        <div class="col">
+                            <!-- File upload input -->
+                            <input type="file" class="form-control-file" name="CertificationFile">
+                        </div>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-secondary btn-sm" id="addCertification">Ajouter</button>
+                </div>
+
+                <button type="submit" class="btn btn-success">Continuer</button>
+            </form>
+        </div>
+
+        <!-- Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <!-- Script pour l'ajout de compétences -->
+        <script>
+            $(document).ready(function () {
+                $('#addCompetence').click(function () {
+                    $('.competence-wrapper').append('<div class="form-row mb-2"><div class="col"><input type="text" class="form-control" placeholder="Compétence" name="CompetenceName[]"></div><div class="col"><select class="form-control" name="CompetenceLevel[]"><option value="Débutant">Débutant</option><option value="Courant">Courant</option><option value="Avancé">Avancé</option></select></div></div>');
+                });
+                $('#addCertification').click(function () {
+                    $('.certification-wrapper').append('<div class="form-row mb-2"><div class="col"><input type="text" class="form-control" placeholder="Nom du certificat" name="CertificationName"></div><div class="col"><input type="text" class="form-control" placeholder="Certifié par" name="CertifiedFrom"></div><div class="col"><input type="date" class="form-control" placeholder="Année" name="CertificationYear"></div></div>');
+                });
+            });
+        </script>
+    </body>
+    </html>
+
+
+
+
+
+
+
+}

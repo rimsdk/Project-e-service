@@ -1,0 +1,62 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Sécurité du compte</title>
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="~/css/Profil.css">
+        <style>
+            .connect-btn {
+                margin-top: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container mt-5">
+            <h2 class="mb-4">Sécurité du compte</h2>
+            <p>Nous prenons la sécurité de votre compte au sérieux. Veuillez vérifier votre e-mail et votre numéro de téléphone pour assurer la sécurité de votre compte.</p>
+
+            <h3 class="mt-4">Vérification de l'e-mail</h3>
+            <div class="form-group">
+                <label for="email">
+                    <i class="far fa-envelope"></i> Courriel
+                </label>
+                <input type="email" class="form-control" id="email" placeholder="Entrez votre adresse e-mail">
+                <button class="btn btn-primary connect-btn mt-2">Envoyer un e-mail de vérification</button>
+            </div>
+
+            <h3 class="mt-4">Numéro de téléphone</h3>
+            <div class="form-group">
+                <label for="phone">
+                    <i class="fas fa-phone-alt"></i> Numéro de téléphone
+                </label>
+                <input type="tel" class="form-control" id="phone" placeholder="Entrez votre numéro de téléphone">
+                <small class="form-text text-muted">Votre numéro de téléphone ne sera jamais partagé avec d'autres.</small>
+            </div>
+
+            <button class="btn btn-success mt-4">Continuer et Créer le Compte</button>
+        </div>
+
+        <!-- Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <!-- Font Awesome -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
+    </body>
+    </html>
+
+
+
+
+
+}
